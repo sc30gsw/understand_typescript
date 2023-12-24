@@ -1,0 +1,13 @@
+{
+  "name": "understand_typescript",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.3.3"
+  }
+}
